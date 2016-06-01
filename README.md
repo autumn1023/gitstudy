@@ -1,2 +1,2 @@
 # gitstudy
-the respository of  gitstudy
+the respository of AND  gitstudy
